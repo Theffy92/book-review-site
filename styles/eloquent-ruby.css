@@ -1,0 +1,11 @@
+#Description{
+    background-color: #f0e9ef;
+}
+
+#Description article{
+    background-color: lightgray;
+}
+
+#Description p{
+    line-height: 150%;
+}
